@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Dear My Boo",
+  "base_artist": "當山　みれい",
+  "createdAt": "2025-12-23T06:19:56.424169Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear My Boo",
+      "artist": "Mirei Toyama",
+      "has_synced": true,
+      "path": "select/01_Dear_My_Boo_Mirei_Toyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dear My Boo.",
+      "artist": "當山みれい.",
+      "has_synced": true,
+      "path": "select/02_Dear_My_Boo._當山みれい..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear My Boo",
+      "artist": "MIREI",
+      "has_synced": true,
+      "path": "select/03_Dear_My_Boo_MIREI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dear My Boo",
+      "artist": "當山 みれい",
+      "has_synced": true,
+      "path": "select/04_Dear_My_Boo_當山_みれい.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dear My Boo",
+      "artist": "當山みれい",
+      "has_synced": true,
+      "path": "select/05_Dear_My_Boo_當山みれい.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dear My Boo",
+      "artist": "Mirei",
+      "has_synced": true,
+      "path": "select/06_Dear_My_Boo_Mirei.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dear My Boo",
+      "artist": "Mirei Touyama",
+      "has_synced": true,
+      "path": "select/07_Dear_My_Boo_Mirei_Touyama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dear My Boo",
+      "artist": "當山みれい",
+      "has_synced": false,
+      "path": "select/pl_01_Dear_My_Boo_當山みれい.txt"
+    }
+  ]
+}
